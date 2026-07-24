@@ -22,9 +22,28 @@ Based in Dhaka, Bangladesh. Available for focused product work with founders, pr
 
 A mobile communication product currently in development and beta preparation.
 
+[Join the beta](https://play.google.com/apps/testing/com.voyatalk.app)
+
 ### PortCue
 
 A native macOS menu-bar utility for finding, grouping, monitoring, and safely closing local development ports.
+
+[Visit PortCue](https://portcue.com)
+
+## Worked with
+
+- [Apito](http://apito.io)
+- [Truely](http://truely.com)
+- [Thrive](http://thrive.com.bd)
+- [BuddyBoss](https://buddyboss.com)
+
+## Strong focus
+
+- Frontend architecture
+- Product engineering
+- Performance optimization
+- Authentication and analytics integrations
+- Modern UI systems
 
 ## Open source
 
@@ -38,7 +57,7 @@ Feedback from real use is welcome—especially missing edge cases, unclear guida
 
 ## Work with me
 
-If you are shaping a product, modernizing an existing application, or need a product-minded engineer to take a focused idea to production, connect through [Perloft](https://perloft.com).
+If you are shaping a product, modernizing an existing application, or need a product-minded engineer to take a focused idea to production, [start a conversation with Perloft](http://perloft.com/contact).
 
 ## Principles
 

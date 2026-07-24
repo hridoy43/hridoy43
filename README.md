@@ -18,32 +18,35 @@ Based in Dhaka, Bangladesh. Available for focused product work with founders, pr
 
 ## Current products
 
-### VoyaTalk
-
-A mobile communication product currently in development and beta preparation.
-
-[Join the beta](https://play.google.com/apps/testing/com.voyatalk.app)
-
-### PortCue
-
-A native macOS menu-bar utility for finding, grouping, monitoring, and safely closing local development ports.
-
-[Visit PortCue](https://portcue.com)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>VoyaTalk</strong><br />
+      Mobile communication product in development and beta preparation.<br /><br />
+      <a href="https://play.google.com/apps/testing/com.voyatalk.app">Join the beta →</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>PortCue</strong><br />
+      Native macOS menu-bar utility for finding, grouping, monitoring, and safely closing local development ports.<br /><br />
+      <a href="https://portcue.com">Visit PortCue →</a>
+    </td>
+  </tr>
+</table>
 
 ## Worked with
 
-- [Apito](http://apito.io)
-- [Truely](http://truely.com)
-- [Thrive](http://thrive.com.bd)
-- [BuddyBoss](https://buddyboss.com)
+<table>
+  <tr>
+    <td align="center"><a href="http://apito.io"><strong>Apito</strong></a></td>
+    <td align="center"><a href="http://truely.com"><strong>Truely</strong></a></td>
+    <td align="center"><a href="http://thrive.com.bd"><strong>Thrive</strong></a></td>
+    <td align="center"><a href="https://buddyboss.com"><strong>BuddyBoss</strong></a></td>
+  </tr>
+</table>
 
 ## Strong focus
 
-- Frontend architecture
-- Product engineering
-- Performance optimization
-- Authentication and analytics integrations
-- Modern UI systems
+`Frontend architecture` · `Product engineering` · `Performance optimization` · `Auth & analytics` · `Modern UI systems`
 
 ## Open source
 

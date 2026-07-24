@@ -4,7 +4,7 @@ I build useful web, mobile, SaaS, and AI products—from product direction and a
 
 Based in Dhaka, Bangladesh. Available for focused product work with founders, product teams, and businesses globally.
 
-[Perloft](https://perloft.com) · [GitHub](https://github.com/hridoy43) · [X](https://x.com/hridoy43)
+[Perloft](https://perloft.com) · [GitHub](https://github.com/hridoy43) · [Peerlist](https://peerlist.io/hridoy43) · [LinkedIn](https://www.linkedin.com/in/hridoy43/) · [X](https://x.com/hridoy43)
 
 ## What I do
 

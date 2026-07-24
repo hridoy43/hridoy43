@@ -30,6 +30,10 @@ Native macOS menu-bar utility for finding, grouping, monitoring, and safely clos
 
 `Frontend architecture` · `Product engineering` · `Performance optimization` · `Auth & analytics` · `Modern UI systems`
 
+## Typical stack
+
+`TypeScript` · `React` · `Next.js` · `React Native` · `Expo` · `Node.js` · `AI product systems` · `Tailwind CSS`
+
 ## Open source
 
 ### Agent Skills for Product Work

@@ -1,6 +1,6 @@
-# Product engineer building useful software
+# Senior product engineer building useful software
 
-I design and build production-ready web, mobile, SaaS, and AI products—from product direction and architecture to launch and iteration.
+I build useful web, mobile, SaaS, and AI products—from product direction and architecture to implementation, launch, and iteration.
 
 Based in Dhaka, Bangladesh. Available for focused product work with founders, product teams, and businesses globally.
 
@@ -11,7 +11,7 @@ Based in Dhaka, Bangladesh. Available for focused product work with founders, pr
 - Product strategy, UX, and technical architecture
 - Production web and SaaS applications
 - React Native and Expo mobile products
-- AI features, agents, evaluation, and human review workflows
+- AI features, agents, evaluation, and human-reviewed workflows
 - Product modernization, performance, and reliable delivery
 
 ## Current products
@@ -46,7 +46,7 @@ Feedback from real use is welcome—especially missing edge cases, unclear guida
 
 ## Work with me
 
-If you are shaping a product, modernizing an existing application, or need a product-minded engineer to take a focused idea to production, [start a conversation with Perloft](http://perloft.com/contact).
+If you are shaping a product, modernizing an existing application, or need a senior product engineer to take a focused idea to production, [start a conversation with Perloft](http://perloft.com/contact).
 
 ## Principles
 

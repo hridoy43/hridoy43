@@ -16,31 +16,15 @@ Based in Dhaka, Bangladesh. Available for focused product work with founders, pr
 
 ## Current products
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>VoyaTalk</strong><br />
-      Mobile communication product in development and beta preparation.<br /><br />
-      <a href="https://play.google.com/apps/testing/com.voyatalk.app">Join the beta →</a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>PortCue</strong><br />
-      Native macOS menu-bar utility for finding, grouping, monitoring, and safely closing local development ports.<br /><br />
-      <a href="https://portcue.com">Visit PortCue →</a>
-    </td>
-  </tr>
-</table>
+**[VoyaTalk](https://play.google.com/apps/testing/com.voyatalk.app)**<br />
+Mobile communication product in development and beta preparation.
+
+**[PortCue](https://portcue.com)**<br />
+Native macOS menu-bar utility for finding, grouping, monitoring, and safely closing local development ports.
 
 ## Worked with
 
-<table>
-  <tr>
-    <td align="center"><a href="http://apito.io"><strong>Apito</strong></a></td>
-    <td align="center"><a href="http://truely.com"><strong>Truely</strong></a></td>
-    <td align="center"><a href="http://thrive.com.bd"><strong>Thrive</strong></a></td>
-    <td align="center"><a href="https://buddyboss.com"><strong>BuddyBoss</strong></a></td>
-  </tr>
-</table>
+[Apito](http://apito.io) · [Truely](http://truely.com) · [Thrive](http://thrive.com.bd) · [BuddyBoss](https://buddyboss.com)
 
 ## Strong focus
 

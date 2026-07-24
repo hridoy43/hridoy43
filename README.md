@@ -1,6 +1,4 @@
-# hridoy43
-
-## Product engineer building useful software
+# Product engineer building useful software
 
 I design and build production-ready web, mobile, SaaS, and AI products—from product direction and architecture to launch and iteration.
 
